@@ -15,4 +15,11 @@ Meetup FrontEnd https://www.meetup.com/es-ES/gdglima/events/240109942/
 • Responsive Web Design Renzo Castro. Senior FrontEnd Developer en Liquid
 
 
+## Slides 
+
+Expositor | Tema  | Presentaciòn | Github
+------------ | ------------- | ------------- | -------------
+Carlos Chavez  | Introducción a Vue.js | https://docs.google.com/presentation/d/1_h5wAJtsdKrd8yUdSEValicNkRbJvcdWOHNVbPMiauU/edit?usp=sharing
+Juan Carlos Cruz. | Reactive Programming con JavaScript 101 | https://docs.google.com/presentation/d/1wk6YZvbMjy7t0g_oEgdLHoKETXIB6zoSQWv2_3j4U0A/edit?usp=sharing
+
 Agradecemos a Culqi por el apoyo .
